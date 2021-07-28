@@ -1,0 +1,3 @@
+Currently it gives chart with default settings. 
+
+Make it to add things like: ema, rsi, money_index, volume etc and time frame 
